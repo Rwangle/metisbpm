@@ -43,9 +43,8 @@ There will be no class July 4, 2019 for
 
 
 ### Before the Course Begins (Prework):
-* We use Slack to facilitate communication.  Join the [Slack Channel](https://bpm-lol-8-2018.slack.com/)
-* Your Metis Live Online session will take place [here](https://kaptest.zoom.us/j/7459305527)
-* The recordings for the class will be uploaded [here](https://docs.google.com/spreadsheets/d/1IL7PDnjKzD6hN9ORfvEYrq8jpA1PQnshvl3FM2bPu4I/edit#gid=0)
+* We use Slack to facilitate communication.  Join the [Slack Channel](https://metis-bpm-datascience.slack.com/)
+* Your Metis Live Online session will take place [here](thisismetis.zoom.us/j/733726934)
 * **Pre-work:** Please install and verify the [installation of Anaconda](https://www.anaconda.com/download/#macos) (for Python 3) by running a "Hello World" sample code before the first day of class.
 For detailed instructions on how to do this, please use the files that are found in [Lecture 0](https://github.com/thisismetis/lol19_bpm8_jan14/tree/master/Lectures/Lecture%200)
 1. The first file titled "Lecture_0_Part1.html" is an HTML page that you can open in your browser without any additional software. This document will go through all the necessary steps of downloading Anaconda and verifying that it has been downloaded correctly. 

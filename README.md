@@ -8,7 +8,7 @@ Course materials for [Metis' Live Online Beginner Python and Math for Data Scien
 Dimitri Theoharatos](https://www.linkedin.com/in/dimitri-theoharatos)
 
 **Dates and Times:** June 24 - Aug 5.  Classes are held on Monday and Thursday (6:30pm - 9:30pm PST)
-There will be no class July 4, 2019 for 
+There will be no class July 4, 2019 
 
 **Office Hours:** Saturdays 10 am - 11 am PST.  
 

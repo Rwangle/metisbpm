@@ -16,7 +16,7 @@ There will be no class July 4, 2019
 ### Lectures: 
 
 * Lecture 0:  [Pre-Work](https://github.com/thisismetis/lol19_bpm8_jan14/tree/master/Lectures/Lecture%200)
-* Lecture 1:  [Python Basics Part 1](https://github.com/thisismetis/lol19_bpm8_jan14/tree/master/Lectures/Lecture%201)
+* Lecture 1:  [Python Basics Part 1](https://github.com/thisismetis/lol19_bpm13_jun24/tree/master/Lectures/Lecture_1)
 
 **Topics covered:** Background/use cases for Python, Jupyter Notebook functionality, Magic Commands, Comments, Variable Assignment (simple, chained, simulataneous, and compound), Numeric Type, Arithmetic in Python, Introduction to Text Sequence Type, Boolean Values, Value Comparison, Membership Test Operations, Identity Comparisons, Boolean Operations, Binary Bitwise Operations (BONUS), Operator Precedence
 

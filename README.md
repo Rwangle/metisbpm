@@ -20,7 +20,7 @@ There will be no class July 4, 2019
 
 **Topics covered:** Background/use cases for Python, Jupyter Notebook functionality, Magic Commands, Comments, Variable Assignment (simple, chained, simulataneous, and compound), Numeric Type, Arithmetic in Python, Introduction to Text Sequence Type, Boolean Values, Value Comparison, Membership Test Operations, Identity Comparisons, Boolean Operations, Binary Bitwise Operations (BONUS), Operator Precedence
 
-* Lecture 2:  [Python Basics Part 2]()
+* Lecture 2:  [Python Basics Part 2](https://github.com/thisismetis/lol19_bpm13_jun24/tree/master/Lectures/Lecture_2)
 
 **Topics covered:** Introduction to Built-In Data Types in Python (Numeric Type, Sequence Type, Mapping Type, and Set Type), mutability concepts, creating instances of each data type, operations for each data type (both common operations and mutable operations), indexing data types, in-place algorithms, copy/shallow copy/deep copy, string formatting, and packing / unpacking with tuples and dictionaries
 
